@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "nome": "Katana di Hattori Hanzo",
+    "prezzo": 334,
+    "categoria": "Accessori",
+    "img": "https://picsum.photos/200"
+  }, {
+    "id": 2,
+    "nome": "Kimono Giapponese",
+    "prezzo": 8978,
+    "categoria": "Accessori",
+    "img": "https://picsum.photos/201"
+  }, {
+    "id": 3,
+    "nome": "Vaso Ming",
+    "prezzo": 7864,
+    "categoria": "Arredamento",
+    "img": "https://picsum.photos/202"
+  }, {
+    "id": 4,
+    "nome": "Guqin",
+    "prezzo": 6778,
+    "categoria": "Musica",
+    "img": "https://picsum.photos/203"
+  }, {
+    "id": 5,
+    "nome": "Statua di Terracotta",
+    "prezzo": 8241,
+    "categoria": "Arredamento",
+    "img": "https://picsum.photos/204"
+  }, {
+    "id": 6,
+    "nome": "Tappeto Tibetano",
+    "prezzo": 7251,
+    "categoria": "Arredamento",
+    "img": "https://picsum.photos/205"
+  }, {
+    "id": 7,
+    "nome": "Quadro di Buddha",
+    "prezzo": 7061,
+    "categoria": "Arredamento",
+    "img": "https://picsum.photos/206"
+  }, {
+    "id": 8,
+    "nome": "Occhio di Pai Mei",
+    "prezzo": 3328,
+    "categoria": "Reliquia",
+    "img": "https://picsum.photos/207"
+  }, {
+    "id": 9,
+    "nome": "Flauto Btuty",
+    "prezzo": 5908,
+    "categoria": "Musica",
+    "img": "https://picsum.photos/208"
+  }, {
+    "id": 10,
+    "nome": "Lancia Shaolin",
+    "prezzo": 8326,
+    "categoria": "Accessori",
+    "img": "https://picsum.photos/209"
+  }, {
+    "id": 11,
+    "nome": "Scudo Indonesiano",
+    "prezzo": 2834,
+    "categoria": "Accessori",
+    "img": "https://picsum.photos/210"
+  }, {
+    "id": 12,
+    "nome": "Lacrime Shintoiste",
+    "prezzo": 5175,
+    "categoria": "Reliquia",
+    "img": "https://picsum.photos/211"
+  }, {
+    "id": 13,
+    "nome": "Urna Koreana",
+    "prezzo": 9626,
+    "categoria": "Reliquia",
+    "img": "https://picsum.photos/212"
+  }, {
+    "id": 14,
+    "nome": "Gong dell'Himalaya",
+    "prezzo": 3932,
+    "categoria": "Musica",
+    "img": "https://picsum.photos/213"
+  }, {
+    "id": 15,
+    "nome": "Cassettiera di Palissandro",
+    "prezzo": 2449,
+    "categoria": "Arredamento",
+    "img": "https://picsum.photos/214"
+  }, {
+    "id": 16,
+    "nome": "Pugnale sacrificale",
+    "prezzo": 283,
+    "categoria": "Reliquia",
+    "img": "https://picsum.photos/215"
+  }, {
+    "id": 17,
+    "nome": "Collana di perle blu",
+    "prezzo": 4513,
+    "categoria": "Gioielli",
+    "img": "https://picsum.photos/216"
+  }, {
+    "id": 18,
+    "nome": "Bracciale zaffiri di kyoto",
+    "prezzo": 1216,
+    "categoria": "Gioielli",
+    "img": "https://picsum.photos/217"
+  }, {
+    "id": 19,
+    "nome": "Anello dell'isola di Nara",
+    "prezzo": 8115,
+    "categoria": "Gioielli",
+    "img": "https://picsum.photos/218"
+  }, {
+    "id": 20,
+    "nome": "Scaffale dello Shogun",
+    "prezzo": 1966,
+    "categoria": "Arredamento",
+    "img": "https://picsum.photos/219"
+  }]

@@ -17,6 +17,7 @@ window.addEventListener("scroll", () => {
 
 
 
+
 // NUMERI IN AUMENTO
 
 let numUtenti = document.querySelector("#numUtenti")
@@ -61,7 +62,9 @@ let annunci = [
 
 let cardWrapper = document.querySelector("#cardWrapper");
 
-annunci.forEach( (annuncio)=> {
+annunci.forEach( (annuncio, i)=> {
+
+    if(i >= annunci.length - 4 ){
     let div = document.createElement("div");
     div.classList.add("col-12", "col-md-6", "col-lg-3", "justify-content-between")
 
@@ -74,7 +77,7 @@ annunci.forEach( (annuncio)=> {
           <div class="card-body colorA">
             <h5 class="card-title d-flex justify-content-center">${annuncio.title}</h5>
             <p class="card-text">Categoria: ${annuncio.categoria}</p>
-            <p class="card-text">Prezzo: ${annuncio.prezzo} </p>
+            <p class="card-text">Prezzo: ${annuncio.prezzo} € </p>
             <p class="card-text">Disponibilità: ${annuncio.disponibilità}</p>
             <a href="#" class="btn btn-warning d-flex justify-content-center">Dettagli</a>
           </div>
@@ -82,6 +85,6 @@ annunci.forEach( (annuncio)=> {
     `
 
     cardWrapper.appendChild(div);
+    }
 
 })
-
